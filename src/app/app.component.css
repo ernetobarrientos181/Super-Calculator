@@ -156,6 +156,10 @@
   color: #1a1a1a;
 }
 
+.calculator.light .display__value {
+  color: #1a1a1a;
+}
+
 .calculator.light .btn {
   background: #d4d4d4;
   color: #1a1a1a;
